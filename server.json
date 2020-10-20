@@ -4,17 +4,17 @@
       "id": 1,
       "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
-      "available": true,
+      "price": "22.90",
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
       "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Veggie Max",
+      "price": "22.90",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia!"
     },
     {
       "id": 3,
@@ -23,6 +23,54 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Moda Italiana",
+      "price": "19.90",
+      "description": "Macarrão à Moda Italiana",
+      "id": 4,
+      "available": true
+    },
+    {
+      "id": 5,
+      "image": "https://i.pinimg.com/originals/53/8a/77/538a77c8e1342ef4a7e0218f31ccccda.jpg",
+      "name": "Ao Alho e Ervilha",
+      "price": "22.20",
+      "description": "Macarrão ao Alho",
+      "available": true
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2esYxyk_NzquMNg_HpwYjJdfnDlNJ_51EaQ&usqp=CAU",
+      "name": "Macarrão Al Mare",
+      "price": "21.50",
+      "description": "Macarrão com frutos do mar",
+      "id": 7,
+      "available": true
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2esYxyk_NzquMNg_HpwYjJdfnDlNJ_51EaQ&usqp=CAU",
+      "name": "Macarrão Al Pesto",
+      "price": "21.90",
+      "description": "Macarrão com molho pesto",
+      "id": 8,
+      "available": true
+    },
+    {
+      "id": 9,
+      "available": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkUuLAoFHnPOuBehLMZ09p_9Fk7-35I5J-2g&usqp=CAU",
+      "name": "Lula Molusco Spaguetti 2",
+      "price": "32.20",
+      "description": "Spaguetti com anéis de lula"
+    },
+    {
+      "id": 11,
+      "available": true,
+      "image": "https://img.wongnai.com/p/256x256/2014/03/11/c272427e39b642c09a2b5979677b47c6.jpg",
+      "name": "Super Mario",
+      "price": "19.00",
+      "description": "Macarrão com Cogumelos"
     }
   ]
 }
